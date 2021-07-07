@@ -12,3 +12,5 @@ Then Click Command Bar:
 
 
 then at the bottom of your screen where it says "Enter Command Here" AniPlex Can Be Access By typing _G.Help
+
+The Script That You Link it To has to Have Everything The [Default](https://github.com/BioShot/AniPlex/blob/main/Default.lua) Script does.
