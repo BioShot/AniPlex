@@ -2,7 +2,7 @@ local module = {}
 
 module.Manifest = {
 	Name = "Default",
-	Description = "Just A Default Scrip",
+	Description = "Just A Default Script",
 	Creator = "AniPlex",
 	Verison = 1,
 	Parent = script.Parent,
@@ -21,5 +21,3 @@ function DefaultFunction()
 end
 
 return module
-
-
